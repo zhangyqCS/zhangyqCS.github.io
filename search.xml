@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> 社会网络分析 </tag>
-            
             <tag> 理论知识 </tag>
+            
+            <tag> 社会网络分析 </tag>
             
         </tags>
       
@@ -47,11 +47,11 @@
       
         <tags>
             
-            <tag> 理论知识 </tag>
-            
             <tag> Machine Learning基础 </tag>
             
             <tag> 贝叶斯决策理论 </tag>
+            
+            <tag> 理论知识 </tag>
             
         </tags>
       
@@ -63,22 +63,22 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="关于博客"><a href="#关于博客" class="headerlink" title="关于博客"></a>关于博客</h2><hr><ul><li>主要记录自己日常的学习笔记、论文笔记等内容</li><li>目前博客很简陋，后期看情况折腾吧</li><li>此博客由<a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>强力驱动，并部署在<a href="https://github.com/" target="_blank" rel="noopener">Gayhub上</a>(逃)</li></ul><h2 id="博客日志"><a href="#博客日志" class="headerlink" title="博客日志"></a>博客日志</h2><hr><ul><li>2020-01-18 建站</li><li>2020-01-19 主题优化，添加搜索、评论等功能</li><li>2020-01-20 添加相册功能</li></ul><h2 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h2><hr><ul><li>95后，目前大四，已确定读研</li><li>本科就读于东北大学(沈阳)计算机科学与技术专业</li><li>硕士就读于中科院计算所(网络数据科学与技术实验室)，方向NLP</li><li>邮箱：<a href="mailto:zhangyqCS@163.com">zhangyqCS@163.com</a></li></ul>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<h2 id="关于博客"><a href="#关于博客" class="headerlink" title="关于博客"></a>关于博客</h2><hr><ul><li>主要记录自己日常的学习笔记、论文笔记等内容</li><li>目前博客很简陋，后期看情况折腾吧</li><li>此博客由<a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>强力驱动，并部署在<a href="https://github.com/" target="_blank" rel="noopener">Gayhub上</a>(逃)</li></ul><h2 id="博客日志"><a href="#博客日志" class="headerlink" title="博客日志"></a>博客日志</h2><hr><ul><li>2020-01-18 建站</li><li>2020-01-19 主题优化，添加搜索、评论等功能</li><li>2020-01-20 添加相册功能</li></ul><h2 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h2><hr><ul><li>95后，目前大四，已确定读研</li><li>本科就读于东北大学(沈阳)计算机科学与技术专业</li><li>硕士就读于中科院计算所(网络数据科学与技术实验室)，方向NLP</li><li>邮箱：<a href="mailto:zhangyqCS@163.com">zhangyqCS@163.com</a></li></ul>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
