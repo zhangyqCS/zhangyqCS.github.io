@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title>贝叶斯决策理论</title>
+      <title>支持向量机-SVM</title>
       <link href="/2020/12/30/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA-SVM/"/>
       <url>/2020/12/30/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA-SVM/</url>
       
@@ -22,9 +22,9 @@
             
             <tag> Machine Learning基础 </tag>
             
-            <tag> 支持向量机 </tag>
-            
             <tag> 理论知识 </tag>
+            
+            <tag> 支持向量机 </tag>
             
             <tag> SVM </tag>
             
@@ -53,9 +53,9 @@
             
             <tag> Machine Learning基础 </tag>
             
-            <tag> 理论知识 </tag>
-            
             <tag> 贝叶斯决策理论 </tag>
+            
+            <tag> 理论知识 </tag>
             
         </tags>
       
